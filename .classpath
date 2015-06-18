@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="lib/poi-examples-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="lib/poi-excelant-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="lib/poi-scratchpad-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="lib/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-server-standalone-2.45.0.jar"/>
+	<classpathentry kind="lib" path="lib/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/susheel.thakur/workspace/JB/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/susheel.thakur/workspace/JB/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/susheel.thakur/workspace/JB/lib/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/susheel.thakur/workspace/JB/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/susheel.thakur/workspace/JB/lib/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/susheel.thakur/workspace/JB/lib/poi-examples-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/susheel.thakur/workspace/JB/lib/poi-excelant-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/susheel.thakur/workspace/JB/lib/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/susheel.thakur/workspace/JB/lib/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/susheel.thakur/workspace/JB/lib/poi-scratchpad-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/susheel.thakur/workspace/JB/lib/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/susheel.thakur/workspace/JB/lib/selenium-java-2.45.0.zip"/>
+	<classpathentry kind="lib" path="C:/Users/susheel.thakur/workspace/JB/lib/selenium-server-standalone-2.45.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/susheel.thakur/workspace/JB/lib/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/susheel.thakur/workspace/JB/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
